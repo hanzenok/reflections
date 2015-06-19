@@ -15,3 +15,6 @@ It show all the branches.
 
 "What is the result of merging two branches together? Why do we represent it in the diagram the way we do?"
 Merging gives the opportunity to apply the progress of two branches. The diagram helps to visualiase it and to understand the changes.
+
+"What are the pros and cons of Git’s automatic merging vs. always doing merges manually?"
+Automatic merging is faster, but needs manual fixes in some cases.
