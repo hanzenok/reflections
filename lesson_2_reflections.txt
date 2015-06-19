@@ -12,3 +12,6 @@ When trying the new fuctionality.
 
 "How do the diagrams help you visualize the branch structure?"
 It show all the branches.
+
+"What is the result of merging two branches together? Why do we represent it in the diagram the way we do?"
+Merging gives the opportunity to apply the progress of two branches. The diagram helps to visualiase it and to understand the changes.
