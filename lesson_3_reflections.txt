@@ -6,3 +6,6 @@ It is more convinient and flexible.
 
 "What is the benefit of having a copy of the last known state of the remote stored locally?"
 To be up to date
+
+"How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?"
+Using other tools. Easier to collaborate, hard to get used to.
